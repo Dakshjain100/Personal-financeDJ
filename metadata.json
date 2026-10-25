@@ -1,0 +1,6 @@
+{
+  "name": "RupeeFlow - Personal Finance & Liquidity Ledger",
+  "description": "Full-stack personal finance system with multi-account liquidity tracking, double-entry transfer engine, 12-month cash flow consolidation, and granular expense analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
